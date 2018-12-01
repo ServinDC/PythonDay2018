@@ -1,0 +1,14 @@
+name: DiPyDay
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python==3.5
+  - seaborn
+  - scipy
+  - numpy
+  - pandas
+  - matplotlib
+  - vtk
+  - nibabel
+  - dipy
